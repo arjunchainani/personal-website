@@ -27,3 +27,23 @@
     opacity: 0.5;
     cursor: pointer;
 }
+
+#bottom {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imagelinks {
+    width: 50px;
+}
+
+.bottomitems {
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.bottomitems:hover {
+    background-color: gray;
+    opacity: 0.5;
+    cursor: pointer;
+}
