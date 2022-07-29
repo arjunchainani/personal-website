@@ -1,0 +1,75 @@
+#name {
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    font-family: Papyrus;
+    font-weight: 600;
+}
+
+.navitems {
+    color: black;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 5px;
+}
+
+.navitems:hover {
+    background-color: gray;
+    opacity: 0.5;
+    cursor: pointer;
+}
+
+#center {
+    display: flex;
+}
+
+.centerimage {
+    width: 900px;
+}
+
+.centertext {
+    background-color: rgba(234, 236, 236, 1);
+    padding-left: 70px;
+    padding-right: 200px;
+    padding-top: 150px;
+}
+
+#hi {
+    font-size: 100px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#bottom {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.imagelinks {
+    width: 50px;
+}
+
+.bottomitems{
+    padding-left: 400px;
+    padding-right: 400px;
+}
+
+.bottomitems:hover {
+    background-color: gray;
+    opacity: 0.5;
+    cursor: pointer;
+}
