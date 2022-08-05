@@ -28,6 +28,17 @@
     cursor: pointer;
 }
 
+#centerheading {
+    font-family:'Courier New', Courier, monospace;
+    color:darkcyan;
+    text-align: center;
+}
+
+#centerbody {
+    color: darkblue;
+    text-align: center;
+}
+
 #bottom {
     display: flex;
     justify-content: space-evenly;

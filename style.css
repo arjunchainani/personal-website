@@ -1,5 +1,5 @@
 #name {
-    background-color: black;
+    background-color: rgb(107, 66, 218);
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -42,6 +42,20 @@
     padding-left: 70px;
     padding-right: 200px;
     padding-top: 150px;
+    width: 987px;
+}
+
+#aboutbutton {
+    display: none;
+    opacity: 0%;
+    background-color: aquamarine;
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 50px;
+}
+
+#aboutbutton:hover {
+    opacity: 50%;
 }
 
 #hi {
